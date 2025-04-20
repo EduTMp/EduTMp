@@ -1,6 +1,6 @@
 ## Hi, I am Magnus 
 Data Enthusiast | Business Intelligence & Data Analyst<br/>
-Transforming raw data into actionable insights<br/>
+💡 Transforming raw data into actionable insights<br/>
 💡 Skilled in visualization PowerBi,Excel, SQL, Python & dashboard creation<br/>
 💡 Passionate about solving business problems through data-driven decisions<br/>
 🚀 Let's connect![Linkedin](www.linkedin.com/in/edwinmugo)
